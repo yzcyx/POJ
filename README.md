@@ -1,8 +1,8 @@
 # **POJ (C++11)**
 **website**: http://poj.org/
 ##**Compilers recommended**
-* Windows: Visual Studio 2015+
-* Linux: g++ 5.0+
+* **Windows:** Visual Studio 2015+
+* **Linux:** g++ 5.0+
 
 ##**Compilers of the POJ official website** 
 * source: http://poj.org/page?id=1000
