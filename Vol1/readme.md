@@ -215,7 +215,7 @@ It's important that the return type of main() must be int when you use G++/GCC,o
 ##[Exercise 1045](https://github.com/yzcyx/POJ/blob/master/Vol1/1045_Bode%20Plot.cpp) : Bode Plot
 * source: http://poj.org/problem?id=1045
 
-> Description:
+> **Description:**
 
 > Consider the AC circuit below. We will assume that the circuit is in steady-state. Thus, the voltage at nodes 1 and 2 are given by v1 = VS coswt and v2 = VRcos (wt + q ) where VS is the voltage of the source, w is the frequency (in radians per second), and t is time. VR is the magnitude of the voltage drop across the resistor, and q is its phase.
 
@@ -224,15 +224,15 @@ It's important that the return type of main() must be int when you use G++/GCC,o
 
 > You are to write a program to determine VR for different values of w. You will need two laws of electricity to solve this problem. The first is Ohm's Law, which states v2 = iR where i is the current in the circuit, oriented clockwise. The second is i = C d/dt (v1-v2) which relates the current to the voltage on either side of the capacitor. "d/dt"indicates the derivative with respect to t. 
 
-> Input
+> **Input:**
 
 > The input will consist of one or more lines. The first line contains three real numbers and a non-negative integer. The real numbers are VS, R, and C, in that order. The integer, n, is the number of test cases. The following n lines of the input will have one real number per line. Each of these numbers is the angular frequency, w. 
 
-> Output:
+> **Output:**
 
 > For each angular frequency in the input you are to output its corresponding VR on a single line. Each VR value output should be rounded to three digits after the decimal point.
 
-> Sample Input:
+> **Sample Input:**
 
 > 1.0 1.0 1.0 9
 
@@ -254,7 +254,7 @@ It's important that the return type of main() must be int when you use G++/GCC,o
 
 > 100.0
 
-> Sample Output:
+> **Sample Output:**
 
 > 0.010
 
