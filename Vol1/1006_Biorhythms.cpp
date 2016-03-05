@@ -74,15 +74,15 @@ int ocurrance(Case input)
 	unsigned occur;                        
 	//d+occur=i+33*m=e+28*n=p+23*l, ocr>0
 	//Get the minimun of min to keep occur positive
-	m = (input.d - input.i) > 0 ?
-		(input.d - input.i) / 33 + 1 : (input.d - input.i) / 33;  //Don't neglect negative integral divisions
+	m = (input.d - input.i) > 0 ?(input.d - input.i) / 33 + 1 : 
+	                             (input.d - input.i) / 33;  //Do not neglect negative integral divisions
 	for (; m < 28 * 23; ++m)
 	{
 		if ((input.i + 33 * m - input.e) % 28 == 0
 			&& (input.i + 33 * m - input.p) % 23 == 0)
 		{
 			occur = (input.i - input.d + 33 * m);
-			if (occur == 0)                                       //Get the NEXT one
+			if (occur == 0)                         //Get the NEXT one
 				return 23 * 28 * 33;
 			else
 				return occur;
