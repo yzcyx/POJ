@@ -27,7 +27,8 @@
 It's important that the return type of main() must be int when you use G++/GCC,or you may get }
 
 ## [Exercise 1003](https://github.com/yzcyx/POJ/blob/master/Vol1/1003_Hangover.cpp) :Hangover
-* source: http://poj.org/problem?id=1003
+* source: ![hangover.jpg]({{site.baseurl}}/Vol1/hangover.jpg)
+
 
 >Description:
 
