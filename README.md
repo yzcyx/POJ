@@ -5,7 +5,7 @@
 * Linux: g++ 5.0+
 
 ##**Compilers of POJ official website** 
-    [http://poj.org/page?id=1000](http://poj.org/page?id=1000)
+  http://poj.org/page?id=1000
 
 * C++:	MS VC++ 2008 Express(“C++”) and MinGW GCC 4.4.0 (“G++”)C++98	
 
