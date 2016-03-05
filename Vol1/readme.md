@@ -123,6 +123,7 @@ It's important that the return type of main() must be int when you use G++/GCC,o
 > After doing more research, Fred has learned that the land that is being lost forms a semicircle. This semicircle is part of a circle centered at (0,0), with the line that bisects the circle being the X axis. Locations below the X axis are in the water. The semicircle has an area of 0 at the beginning of year 1. (Semicircle illustrated in the Figure.)  
 
 > ![]({{site.baseurl}}/http://poj.org/images/1005/semicircle.GIF)
+[semicircle.gif](https://raw.githubusercontent.com/yzcyx/POJ/master/Vol1/semicircle.GIF)
 
 > Input:
 
