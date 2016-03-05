@@ -5,9 +5,13 @@
 
 > Calculate a+b
 
-> Input: Two integer a,b (0<=a,b<=10)
+> Input:
 
-> Output: Output a+b
+> Two integer a,b (0<=a,b<=10)
+
+> Output:
+
+> Output a+b
 
 > Sample Input:
 
