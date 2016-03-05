@@ -212,7 +212,17 @@ It's important that the return type of main() must be int when you use G++/GCC,o
 
 > Case 6: the next triple peak occurs in 10789 days.
 
+##[Exercise 1045](https://github.com/yzcyx/POJ/blob/master/Vol1/1045_Bode%20Plot.cpp) : Bode Plot
+* source: http://poj.org/problem?id=1045
 
+> Description:
+
+> Consider the AC circuit below. We will assume that the circuit is in steady-state. Thus, the voltage at nodes 1 and 2 are given by v1 = VS coswt and v2 = VRcos (wt + q ) where VS is the voltage of the source, w is the frequency (in radians per second), and t is time. VR is the magnitude of the voltage drop across the resistor, and q is its phase.
+
+> ![]({{site.baseurl}}/https://raw.githubusercontent.com/yzcyx/POJ/master/Vol1/bode.jpg)
+[bode.jpg](https://raw.githubusercontent.com/yzcyx/POJ/master/Vol1/bode.jpg)
+
+> You are to write a program to determine VR for different values of w. You will need two laws of electricity to solve this problem. The first is Ohm's Law, which states v2 = iR where i is the current in the circuit, oriented clockwise. The second is i = C d/dt (v1-v2) which relates the current to the voltage on either side of the capacitor. "d/dt"indicates the derivative with respect to t. 
 
 
 
