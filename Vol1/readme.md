@@ -17,6 +17,8 @@
 
 > 3
 
+> ---
+
 > Hint:
 
 > Q: Where are the input and the output? 
