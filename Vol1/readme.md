@@ -1,29 +1,29 @@
 ## [Exersize 1001](https://github.com/yzcyx/POJ/blob/master/Vol1/1000_A%2BB%20Problem.cpp) : A+B Problem
 * source: [http://poj.org/problem?id=1000](http://poj.org/problem?id=1000)
 
-> Description:
+> **Description:**
 
 > Calculate a+b
 
-> Input:
+> **Input:**
 
 > Two integer a,b (0<=a,b<=10)
 
-> Output:
+> **Output:**
 
 > Output a+b
 
-> Sample Input:
+> **Sample Input:**
 
 > 1 2
 
-> Sample Output:
+> **Sample Output:**
 
 > 3
 
 > ---
 
-> Hint:
+> **Hint:**
 
 > Q: Where are the input and the output? 
 
