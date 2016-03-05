@@ -29,7 +29,6 @@ It's important that the return type of main() must be int when you use G++/GCC,o
 ## [Exercise 1003](https://github.com/yzcyx/POJ/blob/master/Vol1/1003_Hangover.cpp) : Hangover
 * source: http://poj.org/problem?id=1000
 
-
 > Description:
 
 > How far can you make a stack of cards overhang a table? If you have one card, you can create a maximum overhang of half a card length. (We're assuming that the cards must be perpendicular to the table.) With two cards you can make the top card overhang the bottom one by half a card length, and the bottom one overhang the table by a third of a card length, for a total maximum overhang of 1/2 + 1/3 = 5/6 card lengths. In general you can make n cards overhang by 1/2 + 1/3 + 1/4 + ... + 1/(n + 1) card lengths, where the top card overhangs the second by 1/2, the second overhangs tha third by 1/3, the third overhangs the fourth by 1/4, etc., and the bottom card overhangs the table by 1/(n + 1). This is illustrated in the figure below.
@@ -66,3 +65,78 @@ It's important that the return type of main() must be int when you use G++/GCC,o
 > 1 card(s)
 
 > 273 card(s)
+
+##[Exercise 1004](https://github.com/yzcyx/POJ/blob/master/Vol1/1004_Financial%20Management.cpp) : Financial Management
+* http://poj.org/problem?id=1004
+
+> Description:
+
+> Larry graduated this year and finally has a job. He's making a lot of money, but somehow never seems to have enough. Larry has decided that he needs to grab hold of his financial portfolio and solve his financing problems. The first step is to figure out what's been going on with his money. Larry has his bank account statements and wants to see how much money he has. Help Larry by writing a program to take his closing balance from each of the past twelve months and calculate his average account balance.
+
+> Input:
+
+> The input will be twelve lines. Each line will contain the closing balance of his bank account for a particular month. Each number will be positive and displayed to the penny. No dollar sign will be included.
+
+> Output:
+
+> The output will be a single number, the average (mean) of the closing balances for the twelve months. It will be rounded to the nearest penny, preceded immediately by a dollar sign, and followed by the end-of-line. There will be no other spaces or characters in the output.
+
+>Sample Input:
+
+> 100.00
+
+> 489.12
+
+> 12454.12
+
+> 1234.10
+
+> 823.05
+
+> 109.20
+
+> 5.27
+
+> 1542.25
+
+> 839.18
+
+> 83.99
+
+> 1295.01
+
+> 1.75
+
+> Sample Output:
+
+>$1581.42
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
