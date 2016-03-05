@@ -9,7 +9,7 @@
 
 * C++	MS VC++ 2008 Express (“C++”) and MinGW GCC 4.4.0 (“G++”)	C++98	
 
-> * The macro ONLINE_JUDGE is defined.
+> The macro ONLINE_JUDGE is defined.
 Currently there is no plan to enable the experimental C++0x features before the new C++ standard is officially published and relatively well-supported.
 
 ##**Contents**
