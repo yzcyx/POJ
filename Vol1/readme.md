@@ -67,7 +67,7 @@ It's important that the return type of main() must be int when you use G++/GCC,o
 > 273 card(s)
 
 ##[Exercise 1004](https://github.com/yzcyx/POJ/blob/master/Vol1/1004_Financial%20Management.cpp) : Financial Management
-* http://poj.org/problem?id=1004
+* source: http://poj.org/problem?id=1004
 
 > Description:
 
