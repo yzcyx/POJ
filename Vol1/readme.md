@@ -1,9 +1,8 @@
 ## [Exersize 1001](https://github.com/yzcyx/POJ/blob/master/Vol1/1000_A%2BB%20Problem.cpp) :A+B Problem
 source:[http://poj.org/problem?id=1000](http://poj.org/problem?id=1000)
 >Description: Calculate a+b
- Input: Two integer a,b (0<=a,b<=10)
-Output
-Output a+b
+>Input: Two integer a,b (0<=a,b<=10)
+>Output: Output a+b
 Sample Input
 1 2
 Sample Output
