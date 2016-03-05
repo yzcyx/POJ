@@ -1,11 +1,2 @@
-﻿# 在此处输入标题
-
-标签（空格分隔）： 未分类
-
----
-
-在此输入正文
-
-
-
-
+# [Exersize 1001](https://github.com/yzcyx/POJ/blob/master/Vol1/1000_A%2BB%20Problem.cpp)
+#
