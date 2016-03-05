@@ -12,5 +12,6 @@
 > The macro ONLINE_JUDGE is defined.
 Currently there is no plan to enable the experimental C++0x features before the new C++ standard is officially published and relatively well-supported.
 
+
 ##**Contents**
 *  [Volumn 1](https://github.com/yzcyx/POJ/tree/master/Vol1)
