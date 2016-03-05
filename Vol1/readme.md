@@ -154,10 +154,6 @@ It's important that the return type of main() must be int when you use G++/GCC,o
 2. This problem will be judged automatically. Your answer must match exactly, including the capitalization, punctuation, and white-space. This includes the periods at the ends of the lines.
 3. All locations are given in miles.
 
-1.No property will appear exactly on the semicircle boundary: it will either be inside or outside. 
-2.This problem will be judged automatically. Your answer must match exactly, including the capitalization, punctuation, and white-space. This includes the periods at the ends of the lines. 
-3.All locations are given in miles.
-
 
 
 
