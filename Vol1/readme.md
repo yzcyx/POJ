@@ -1,4 +1,4 @@
-## [Exersize 1001](https://github.com/yzcyx/POJ/blob/master/Vol1/1000_A%2BB%20Problem.cpp) :A+B Problem
+## [Exersize 1001](https://github.com/yzcyx/POJ/blob/master/Vol1/1000_A%2BB%20Problem.cpp) : A+B Problem
 * source:[http://poj.org/problem?id=1000](http://poj.org/problem?id=1000)
 
 > Description:
@@ -26,7 +26,7 @@
 > You shall not output any extra data to standard output other than that required by the problem, otherwise you will get a "Wrong Answer". 
 It's important that the return type of main() must be int when you use G++/GCC,or you may get }
 
-## [Exercise 1003](https://github.com/yzcyx/POJ/blob/master/Vol1/1003_Hangover.cpp) :Hangover
+## [Exercise 1003](https://github.com/yzcyx/POJ/blob/master/Vol1/1003_Hangover.cpp) : Hangover
 * source: http://poj.org/problem?id=1000](http://poj.org/problem?id=1000)
 
 
