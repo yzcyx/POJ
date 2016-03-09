@@ -1,4 +1,4 @@
-# POJ--Volumn 1
+# POJ -- Volumn 1
 ## [Exersize 1001](https://github.com/yzcyx/POJ/blob/master/Vol1/1000_A%2BB%20Problem.cpp) : A+B Problem
 * source: [http://poj.org/problem?id=1000](http://poj.org/problem?id=1000)
 
