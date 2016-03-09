@@ -1,4 +1,4 @@
-# **POJ (C++11)**
+# **POJ (C++11/14)**
 **website**: http://poj.org/
 ##**Compilers recommended**
 * **Windows:** Visual Studio 2015+
