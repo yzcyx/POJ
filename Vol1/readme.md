@@ -186,7 +186,7 @@ It's important that the return type of main() must be int when you use G++/GCC,o
 
 > Case 1: the next triple peak occurs in 1234 days. 
 
-> Use the plural form ``days'' even if the answer is 1.
+> Use the plural form "days" even if the answer is 1.
 
 > **Sample Input:**
 
