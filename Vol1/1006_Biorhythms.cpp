@@ -46,8 +46,8 @@
  *   Case 6: the next triple peak occurs in 10789 days.
  **************************************************************************************************************
  *Particularly,notice the following edge cases:
- *   24 29 34 0    (1)
- *   24 29 34 1    (21252)
+ *   24 29 34 0    (The answer should be 1)
+ *   24 29 34 1    (The answer should be 21252)
 */
 
 #include <iostream>
