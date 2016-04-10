@@ -60,7 +60,7 @@ struct Case
 	int p, e, i, d;
 };
 
-bool is_end(Case input)
+bool is_end(const Case &input) const
 {
 	if (input.p == -1 && input.e == -1 && input.i == -1 && input.d == -1)
 		return true;
