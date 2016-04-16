@@ -2,7 +2,7 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/yzcyx/POJ-in-CPP.svg)](https://github.com/yzcyx/POJ-in-CPP/issues)
 [![GitHub license](https://img.shields.io/badge/license-CC0-blue.svg)](https://github.com/yzcyx/POJ-in-CPP/blob/master/license)
-[![](https://img.shields.io/badge/POJ-website-green.svg)](http://poj.org/)
+[![](https://img.shields.io/badge/website-POJ-green.svg)](http://poj.org/)
 
 ##**Compilers recommended**
 
