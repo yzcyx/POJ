@@ -1,6 +1,7 @@
 # **POJ (C++11/14)**
 
 [![](https://img.shields.io/badge/POJ-website-green.svg)](http://poj.org/)
+[![GitHub license](https://img.shields.io/badge/license-CC0-blue.svg)](https://github.com/yzcyx/POJ-in-CPP/blob/master/license)
 
 ##**Compilers recommended**
 
