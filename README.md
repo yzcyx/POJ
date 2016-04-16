@@ -1,6 +1,6 @@
 # **POJ (C++11/14)**
 
-**POJ website**: http://poj.org/
+[![](https://img.shields.io/badge/douban-%E5%B0%8F%E7%BB%84-green.svg)](http://poj.org/)
 
 ##**Compilers recommended**
 
